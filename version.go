@@ -21,7 +21,7 @@ var Version = KOPS_RELEASE_VERSION
 
 // These constants are parsed by build tooling - be careful about changing the formats
 const (
-	KOPS_RELEASE_VERSION = "1.25.2"
+	KOPS_RELEASE_VERSION = "1.25.2-alpha.1"
 	KOPS_CI_VERSION      = "1.25.3"
 )
 

@@ -10,7 +10,7 @@ on:
 
 jobs:
   tag-release:
-    if: ${{ github.repository == 'kubernetes/kops' }}
+    if: ${{ github.repository == 'kaidotdev/kops' }}
     runs-on: ubuntu-20.04
 
     permissions:
